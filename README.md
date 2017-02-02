@@ -2,4 +2,4 @@
 ***
 :book:
 
-[Go并发编程实战](/books/Go并发编程实战.md)
+[Go并发编程实战](books/Go并发编程实战.md)
