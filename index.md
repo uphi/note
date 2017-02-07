@@ -20,7 +20,7 @@
       <div class="container">
 
         <div class="blog-header">
-          <h1 class="blog-title">读书笔记g</h1>
+          <h1 class="blog-title">读书笔记</h1>
           <p class="lead blog-description"></p>
         </div>
 
