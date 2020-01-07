@@ -1,32 +1,5 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <title>读书笔记</title>
-
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <h1>荀子·劝学·摘录</h1>
-    <p>君子曰：学不可以已(yǐ)。</p>
-    <p>青，取之于蓝，而青于蓝；冰，水为之，而寒于水。木直中(zhòng)绳，輮(róu)以为轮，其曲中规。虽有(yòu)槁(gǎo)暴(pù)，不复挺者，輮使之然也。故木受绳则直，金就砺(lì)则利，君子博学而日参(cān)省(xǐng)乎己，则知(zhì)明而行无过矣。</p>
-    <p>吾尝终日而思矣，不如须臾(yú)之所学也；吾尝跂(qì)而望矣，不如登高之博见也。登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。假舆(yú)马者，非利足也，而致千里；假舟楫(jí)者，非能水也，而绝江河。君子生（xìng）非异也，善假于物也。</p>
-    <p>积土成山，风雨兴焉；积水成渊，蛟(jiāo)龙生焉；积善成德，而神明自得，圣心备焉。故不积跬(kuǐ)步，无以至千里；不积小流，无以成江海。骐(qí)骥(jì)一跃，不能十步；驽马十驾，功在不舍。锲(qiè)而舍之，朽木不折；锲而不舍，金石可镂(lòu)。</p>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
+# 荀子·劝学·摘录
+> 君子曰：学不可以已(yǐ)。
+> 青，取之于蓝，而青于蓝；冰，水为之，而寒于水。木直中(zhòng)绳，輮(róu)以为轮，其曲中规。虽有(yòu)槁(gǎo)暴(pù)，不复挺者，輮使之然也。故木受绳则直，金就砺(lì)则利，君子博学而日参(cān)省(xǐng)乎己，则知(zhì)明而行无过矣。
+> 吾尝终日而思矣，不如须臾(yú)之所学也；吾尝跂(qì)而望矣，不如登高之博见也。登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。假舆(yú)马者，非利足也，而致千里；假舟楫(jí)者，非能水也，而绝江河。君子生（xìng）非异也，善假于物也。
+> 积土成山，风雨兴焉；积水成渊，蛟(jiāo)龙生焉；积善成德，而神明自得，圣心备焉。故不积跬(kuǐ)步，无以至千里；不积小流，无以成江海。骐(qí)骥(jì)一跃，不能十步；驽马十驾，功在不舍。锲(qiè)而舍之，朽木不折；锲而不舍，金石可镂(lòu)。
